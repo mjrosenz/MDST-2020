@@ -56,4 +56,3 @@ def count_words(text):
         {'how': 1, 'much': 1, 'wood': 1, 'would': 1, 'a': 2, 'woodchuck': 2,
         'chuck': 2, 'if': 1, 'could': 1, 'wood?': 1}
     """
-# I finished :)
